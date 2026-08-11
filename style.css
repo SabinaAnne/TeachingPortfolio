@@ -1,0 +1,104 @@
+h2 {
+  color:blueviolet;
+  text-align: center;
+  font-size: 100 pxs;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color:white;
+  text-align: center;
+  font-size: 600pxs;
+  font-family: 'Sansita Swashed', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  color:black;
+  font-size: 40pxs;
+  text-align: center;
+}
+
+.bio {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+
+.banner {
+  background-image: url("https://64.media.tumblr.com/b79960ee9f70064062363688c2fd4389/tumblr_o504wtY70q1tapwfpo4_500.png");
+  background-size: cover;
+  height: 200px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+.image {
+  width: 300px;
+}
+
+.pad {
+  margin: 10px;
+}
+
+.gallery {
+  //idk what this is for
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+}
+
+.activities {
+  //
+}
+
+.item {
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.5);
+  justify-content: space-between;
+}
+
+.contact{
+  align-items: center;
+}
+
+.footer {
+  align-items: center;
+  text-align: center;
+}
+
+.socialmedia img {
+  height: 50px;
+  width: 50px;
+  align-items:center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
